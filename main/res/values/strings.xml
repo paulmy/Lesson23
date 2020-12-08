@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="hint1">Input Text</string>
+    <string name="click_me">Click me</string>
+    <string name="hello_world">Hello, world</string>
+    <string name="abouttext">Hello World</string>
+</resources>
